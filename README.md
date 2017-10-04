@@ -10,5 +10,9 @@ The tracker should also list the task related to contractual projects in order t
 
 # Synthetic view
 We are still investigating weither is is better to use github Projects of waffle.io to present a synthesis of the board.
-- Github project is easier to find thanks to links in the UI but requires to manually add issues in the board, Example: https://github.com/diverse-project/dev-dashboard/projects/1  
-- waffle.io offers a seamless way to add issues in the board, and uses labels but is an external service. Example: https://waffle.io/diverse-project/dev-dashboard
+- Github project : Example: https://github.com/diverse-project/dev-dashboard/projects/1  
+   - pro: is easier to find thanks to links in the UI 
+   - cons: requires to manually add issues in the board, does NOT correlate labels with cards of the board 
+- waffle.io : Example: https://waffle.io/diverse-project/dev-dashboard
+   - pro: offers a seamless way to add issues in the board, and uses labels 
+   - cons: is an external service
