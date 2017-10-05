@@ -11,5 +11,4 @@ The tracker should also list the task related to contractual projects in order t
 # Synthetic view
 
 - waffle.io : **https://waffle.io/diverse-project/dev-dashboard**
-   - pro: offers a seamless way to add issues in the board, and uses labels 
-   - cons: is an external service
+
