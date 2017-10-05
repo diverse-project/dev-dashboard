@@ -1,7 +1,7 @@
 # dev-dashboard
 The tracker of this repository is used to track development requests so we can improve internal collaboration by organizing code sprints in the team.
 
-The main idea is to organize coding sprint (typically involving engineers of the team) on request of the scientific members (permanent, post doc and Phd student ).
+The main idea is to organize coding sprint (typically involving engineers of the team but not only them :wink: ) on request of the scientific members (permanent, post doc and Phd student ).
 
 
 Typical sprint granurality will be 2 weeks.
@@ -9,10 +9,7 @@ Typical sprint granurality will be 2 weeks.
 The tracker should also list the task related to contractual projects in order to also provide a coarse grain view of the engineers activities. (same grain as the sprints)
 
 # Synthetic view
-We are still investigating weither is is better to use github Projects of waffle.io to present a synthesis of the board.
-- Github project : Example: https://github.com/diverse-project/dev-dashboard/projects/1  
-   - pro: is easier to find thanks to links in the UI 
-   - cons: requires to manually add issues in the board, does NOT correlate labels with cards of the board 
-- waffle.io : Example: https://waffle.io/diverse-project/dev-dashboard
+
+- waffle.io : **https://waffle.io/diverse-project/dev-dashboard**
    - pro: offers a seamless way to add issues in the board, and uses labels 
    - cons: is an external service
